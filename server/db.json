@@ -17,6 +17,18 @@
       "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
       "name": "Saad Hasan",
       "id": 3
+    },
+    {
+      "email": "tipusultan@gmail.com",
+      "password": "$2a$10$FQo4CE2uTuz.504uz8Mc9unelT.eaiENXj4MNb4YgptSRyG2VU.XO",
+      "name": "Tipu Sultan",
+      "id": 4
+    },
+    {
+      "email": "akash@learnwithsumit1.com",
+      "password": "$2a$10$xJZI/mRc6p4ONoWznV8AXu5IFKxNBlfdEO2yFXryzJ0DT1FbByxB.",
+      "name": "akash",
+      "id": 5
     }
   ],
   "conversations": [
@@ -57,6 +69,81 @@
       "message": "Hello Akash",
       "timestamp": 1662555233731,
       "id": 2
+    },
+    {
+      "participants": "tipusultan@gmail.com-sumit@learnwithsumit.com",
+      "users": [
+        {
+          "email": "tipusultan@gmail.com",
+          "name": "Tipu Sultan",
+          "id": 4
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+          "name": "Sumit Saha",
+          "id": 1
+        }
+      ],
+      "message": "Hi ,Brother",
+      "timestamp": 1679762026778,
+      "id": 3
+    },
+    {
+      "participants": "tipusultan@gmail.com-saad@learnwithsumit.com",
+      "users": [
+        {
+          "email": "tipusultan@gmail.com",
+          "name": "Tipu Sultan",
+          "id": 4
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+          "name": "Saad Hasan",
+          "id": 3
+        }
+      ],
+      "message": "Hello Brother",
+      "timestamp": 1679762082845,
+      "id": 4
+    },
+    {
+      "participants": "tipusultan@gmail.com-saad@learnwithsumit.com",
+      "users": [
+        {
+          "email": "tipusultan@gmail.com",
+          "name": "Tipu Sultan",
+          "id": 4
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+          "name": "Saad Hasan",
+          "id": 3
+        }
+      ],
+      "message": "JavaScript",
+      "timestamp": 1679763890956,
+      "id": 5
+    },
+    {
+      "participants": "tipusultan@gmail.com-akash@learnwithsumit1.com",
+      "users": [
+        {
+          "email": "tipusultan@gmail.com",
+          "name": "Tipu Sultan",
+          "id": 4
+        },
+        {
+          "email": "akash@learnwithsumit1.com",
+          "name": "akash",
+          "id": 5
+        }
+      ],
+      "message": "how are you",
+      "timestamp": 1679765258921,
+      "id": 6
     }
   ],
   "messages": [
@@ -127,6 +214,107 @@
       "message": "I am fine. What about you?",
       "timestamp": 1662555282000,
       "id": 4
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "tipusultan@gmail.com",
+        "name": "Tipu Sultan",
+        "id": 4
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "Hi ,Brother",
+      "timestamp": 1679762026778,
+      "id": 5
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "tipusultan@gmail.com",
+        "name": "Tipu Sultan",
+        "id": 4
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "Hi ,Brother",
+      "timestamp": 1679762026778,
+      "id": 6
+    },
+    {
+      "conversationId": 4,
+      "sender": {
+        "email": "tipusultan@gmail.com",
+        "name": "Tipu Sultan",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "Hello Brother",
+      "timestamp": 1679762082845,
+      "id": 7
+    },
+    {
+      "conversationId": 6,
+      "sender": {
+        "email": "akash@learnwithsumit1.com",
+        "name": "akash",
+        "id": 5
+      },
+      "receiver": {
+        "email": "tipusultan@gmail.com",
+        "password": "$2a$10$FQo4CE2uTuz.504uz8Mc9unelT.eaiENXj4MNb4YgptSRyG2VU.XO",
+        "name": "Tipu Sultan",
+        "id": 4
+      },
+      "message": "Hi Akash",
+      "timestamp": 1679765199286,
+      "id": 8
+    },
+    {
+      "conversationId": 6,
+      "sender": {
+        "email": "akash@learnwithsumit1.com",
+        "name": "akash",
+        "id": 5
+      },
+      "receiver": {
+        "email": "tipusultan@gmail.com",
+        "password": "$2a$10$FQo4CE2uTuz.504uz8Mc9unelT.eaiENXj4MNb4YgptSRyG2VU.XO",
+        "name": "Tipu Sultan",
+        "id": 4
+      },
+      "message": "ja",
+      "timestamp": 1679765214301,
+      "id": 9
+    },
+    {
+      "conversationId": 6,
+      "sender": {
+        "email": "tipusultan@gmail.com",
+        "name": "Tipu Sultan",
+        "id": 4
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit1.com",
+        "name": "akash",
+        "id": 5
+      },
+      "message": "how are you",
+      "timestamp": 1679765258921,
+      "id": 10
     }
   ]
 }
